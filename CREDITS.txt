@@ -1,0 +1,64 @@
+﻿■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■ CREDITS                                                          ■ 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+----------------------------------------------------------------------
+■ GENERAL (RTP XP , VX , MV)
+----------------------------------------------------------------------
+
+KADOKAWA CORPORATION (Degica)
+https://tkool.jp/mv/
+
+----------------------------------------------------------------------
+■ PROGRAMMING & EXTRA ASSETS
+----------------------------------------------------------------------
+
+Moghunter (Atelier RGSS)
+https://atelierrgss.wordpress.com/
+
+Altimit Movement 
+https://forums.rpgmakerweb.com/index.php?threads/altimit-pixel-movement-0-50v.85408/
+
+Galv's MV Cam Control
+http://galvs-scripts.com/2015/11/27/mv-cam-control/
+
+----------------------------------------------------------------------
+■ MUSICS (they are used for demonstration purposes only.)
+----------------------------------------------------------------------
+
+Abstract Hope
+http://bungakuseinen.com/
+
+Hmix
+http://www.hmix.net/
+
+Foceal
+http://folce.zatunen.com/
+
+Freedom House
+http://fhouse.s17.xrea.com/
+
+
+------------------------------------------------------------------------
+■ Other Assets
+------------------------------------------------------------------------
+
+Wind Astella
+Stella 8-directional sprites
+https://opengameart.org/content/stella
+Licensed under the CC-BY 3.0 License
+https://creativecommons.org/licenses/by/3.0/
+
+
+Warspawn:
+CC0 Floating Eyeball
+https://opengameart.org/content/floating-eye-beast
+
+Frogotto and Friends Team
+Whatran (CC0)
+http://opengameart.org/content/frogatto-friends-npc-pack
+
+
+Ansimuz
+Megabot (CC0)
+https://opengameart.org/content/mega-bot-assets-pack
