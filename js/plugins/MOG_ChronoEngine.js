@@ -2184,6 +2184,7 @@ Game_CharacterBase.prototype.canTouchTarget = function(character) {
 	if (character.isKnockbacking()) {return false};
     if ($gameTemp._chaPosesEVRunning) {return false};
 	if (this.isMovementSucceeded()) {return false}
+	
 	var dis = Math.abs(character.x - this.x) + Math.abs(character.y - this.y);
 	if (dis > 1) {return false};
 	var dX = character.x - this.x;
