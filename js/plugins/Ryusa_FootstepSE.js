@@ -639,51 +639,61 @@ Ryusa_Footstep_SE._valid_samples_of_grass = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._grass_samples[i] = String(parameters['Grass Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._sand_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_sand = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._sand_samples[i] = String(parameters['Sand Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._snow_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_snow = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._snow_samples[i] = String(parameters['Snow Sample #'+(i+1)])
 };
+
 Ryusa_Footstep_SE._wood_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_wood = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._wood_samples[i] = String(parameters['Wood Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._water_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_water = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._water_samples[i] = String(parameters['Water Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._stone_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_stone = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._stone_samples[i] = String(parameters['Stone Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._metal_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_metal = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._metal_samples[i] = String(parameters['Metal Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._opti_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_opti = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._opti_samples[i] = String(parameters['Optional I Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._optii_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_optii = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._optii_samples[i] = String(parameters['Optional II Sample #'+(i+1)]);
 };
+
 Ryusa_Footstep_SE._optiii_samples = [];
 Ryusa_Footstep_SE._valid_samples_of_optiii = [];
 for (var i = 0; i <= 9; i++) {
   Ryusa_Footstep_SE._optiii_samples[i] = String(parameters['Optional III Sample #'+(i+1)]);
 };
+
 //-----------------------------------------------------------------------------
 // 初始化
 //-----------------------------------------------------------------------------
