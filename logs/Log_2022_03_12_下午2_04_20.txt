@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1232
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property 'meta' of undefined
+    at Game_Actor.learnSkill (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:21284:16)
+    at Game_Actor.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3566:18)
+    at Array.forEach (<anonymous>)
+    at Game_Actor.initSkills (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3564:35)
+    at Game_Actor.setup (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3442:10)
+    at Game_Actor.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3408:10)
+    at new Game_Actor (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3393:21)
+    at Game_Actors.actor (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:4587:35)
+    at Game_Party.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:4871:25)
+    at Array.forEach (<anonymous>)
+----------
+ERROR!
+Using AlphaABS [Build: 1232 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'meta' of undefined
+    at Game_Actor.learnSkill (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build.js:21284:16)
+    at Game_Actor.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3566:18)
+    at Array.forEach (<anonymous>)
+    at Game_Actor.initSkills (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3564:35)
+    at Game_Actor.setup (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3442:10)
+    at Game_Actor.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3408:10)
+    at new Game_Actor (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3393:21)
+    at Game_Actors.actor (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:4587:35)
+    at Game_Party.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:4871:25)
+    at Array.forEach (<anonymous>)
+----------
